@@ -1,6 +1,6 @@
 library(data.table)
 library(MASS)
-
+data=read.csv("https://github.com/kang20006/divorce-data-project/raw/main/divorce.csv",sep=";")
 # Read in the RF model
 model <- readRDS("model.rds")
 #model <- readRDS("https://github.com/kang20006/divorce-data-project/raw/main/model.rds")
