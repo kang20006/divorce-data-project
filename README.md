@@ -24,5 +24,3 @@ divorce-data-project
 </ul>
 <p>We also build a webapp based on the LDA model using the Shiny package</p>
 <p>view web app link at: https://dp-divorce-r.herokuapp.com/</p>
-
-<iframe src="https://dp-divorce-r.herokuapp.com/" height="200" width="300" title="Divorce predictor webapp"></iframe>
